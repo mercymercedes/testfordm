@@ -7,4 +7,4 @@ Eearning about Respository
 * Item 2
   * Item 2a
   * Item 2b
-! [Kinderfoto] C:\Users\Mercy\Pictures\Familiepics\fotoshoot\kind13
+
